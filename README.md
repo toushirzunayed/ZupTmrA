@@ -1,11 +1,11 @@
-# ZupTmrA
+**ZupTmrA v1.0.3**
 
-Offline Business Management App for Android.
+- Fresh installation version
+- Improved Product Inventory search
+- Product listing order improvements
+- Batch History date ordering improvements
+- Offline Android application
 
-## Features
-- Inventory & Batch Stock Management
-- POS & Invoice Management
-- Customer & Due Tracking
-- Return & Exchange
-- Sales & Profit Reports
-- Fully Offline
+**Installation:** Download `ZupTmrA.apk` and install it on your Android device.
+
+**Note:** Back up existing business data before uninstalling an older version.
